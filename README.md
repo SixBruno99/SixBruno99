@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @SixBruno99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello
 
-<!---
-SixBruno99/SixBruno99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎭 I'm from Brazil
+📚 I'm 18 years old, Computer Science student at CEUB(Centro Univesitário de Brasíla).
+🧠I'm currently studying Html & CSS, so i intend to be a fullstack developer.
+💻I'm looking for my first job as a developer.
