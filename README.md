@@ -1,4 +1,4 @@
-## Hello, friend, welcome to my profile
+## Hello friend, welcome to my profile
 
 <p>
   🎭 I'm from Brazil <br>
