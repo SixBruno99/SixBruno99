@@ -2,8 +2,8 @@
 
 <p>
   🎭 I'm from Brazil <br>
-  📚 I'm 19 years old, Computer Science student. <br>
-  🧠 I'm currently studying react and nextjs, so i intend to be a frontend developer by now. <br>
-  💻 I'm currently working at WorldConnect as a frontend developer
+  📚 I'm 20 years old, Computer Science student. <br>
+  🧠 I'm currently studying react and nextjs. <br>
+  💻 I'm currently working as a freelancer in a project in Flutter
 <p>
   
