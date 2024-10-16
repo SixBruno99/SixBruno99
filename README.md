@@ -1,7 +1,4 @@
-## Hello friend, welcome to my profile
-
-<h1>Hi 👋, I'm Bruno Henrique</h1>
-<h3>A professional web developer from Brazil</h3>
+![Header](./github-header-image.png)
 
 <h4>
   🎭 I'm from Brazil <br>
