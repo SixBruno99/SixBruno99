@@ -1,46 +1,31 @@
-![Header](./github-header-image.png)
+<h1 align="center">
+ Welcome to my profile <img height="40" alt="notebook" src="https://cdn-icons-png.flaticon.com/512/5812/5812746.png">
+</h1>
+<h3 align="center">Hey, I'm Bruno Henrique, a Software developer and Cybersecurity enthusiast from Brazil.</h3>
+<h3 align="center">Connect with me:</h3>
+<div align="center">  
+  <code><a href="https://www.linkedin.com/in/bruno-henrique-ferreira-marinho/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank" alt="linkedin" width="50"></a></code>
+  </div>
+<br>
 
-<h4>
-  🎭 I'm from Brazil <br>
-  📚 I'm 21 years old, Computer Science student. <br>
-  🧠 I'm currently studying cybersecurity. <br>
-  💻 I'm currently working as a web developer
-</h4>
+<div align="center">
 
-<p> <img src="https://komarev.com/ghpvc/?username=sixbruno99&label=Profile%20views&color=0e75b6&style=flat" alt="sixbruno99" /> </p>
+![Bruno Henrique's Views](https://komarev.com/ghpvc/?username=sixbruno99&color=blueviolet)
 
-<h3>Tools:</h3>
-<p>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
- </p>
- <p>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
- </p>
- <p>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- </p>
- <p>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- </p>
+![Bruno Henrique's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sixbruno99&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8)
 
-<h3>Contact Me:</h3>
-<p>
-<a href="https://linkedin.com/in/bruno-henrique-ferreira-marinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-henrique-ferreira-marinho" height="30" width="40" /></a>
-</p>
-</br>
+[![Bruno Henrique's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SixBruno99&theme=midnight-purple)](https://git.io/streak-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sixbruno99&" alt="sixbruno99" /></p>
+</div>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sixbruno99&show_icons=true&locale=en" alt="sixbruno99" /></p>
+<br>
+<div align="center"> 
+  
+***Languages, Frameworks and Others***
+  
+<code><img height="40" alt="html" src="https://cdn-icons-png.flaticon.com/128/732/732212.png"></code> <code><img height="40" alt="css" src="https://cdn-icons-png.flaticon.com/128/732/732190.png"></code> <code><img height="40" alt="sass" src="https://cdn-icons-png.flaticon.com/128/5968/5968358.png"></code> <code><img height="40" alt="javascript" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></code> <code><img height="40" alt="typescript" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png"></code> <code><img height="40" alt="python" src="https://cdn-icons-png.flaticon.com/128/1387/1387537.png"></code> 
+<code><img height="40" alt="react" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png"></code> <code><img height="40" alt="next.js" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code> <code><img height="40" alt="node.js" src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png"></code> <code><img height="40" alt="linux" src="https://cdn.worldvectorlogo.com/logos/tux.svg"></code> <code><img height="40" alt="git" src="https://cdn-icons-png.flaticon.com/128/2111/2111288.png"></code> 
+</div>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sixbruno99&show_icons=true&locale=en&layout=compact" alt="sixbruno99" /></p>
+<br>
+<br>
