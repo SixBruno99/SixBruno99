@@ -1,5 +1,5 @@
 <h1 align="center">
- Welcome to my profile <img height="40" alt="notebook" src="https://cdn-icons-png.flaticon.com/512/5812/5812746.png">
+ Welcome to my profile 🌐
 </h1>
 <h3 align="center">Hey, I'm Bruno Henrique, a Software developer and Cybersecurity enthusiast from Brazil.</h3>
 <h3 align="center">Connect with me:</h3>
